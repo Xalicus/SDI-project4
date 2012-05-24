@@ -95,3 +95,56 @@ var goToStores = function(storeNames, minPerStore) {
 	};
 };
 
+
+// My Procrastination Adventure!
+
+say("It\'s 10am, time to get on to my schoolwork for the week.");
+
+say("I don\'t really feel up to it, so I make a decision to play my game console instead.");
+
+var gameTime = playTime(true);
+
+say("Crap, it\'s really three o\'clock, I should get started on school.");
+
+say("But, it can wait a couple more hours, so I decide to get something to eat.");
+
+say("Oh but what to eat?");
+
+say("I have pasta or hamburgers, hmmm.");
+
+feedingTime("I\'m" , foodType);
+
+yumFood(foodType);
+
+say("I eat up all the yumminess, and finally decide I\'m ready for the week\'s schoolwork.");
+
+say("But now I only have a couple hours left in the day until it\'s due.");
+
+say("What should I do?");
+
+say("I sing a song to myself!");
+
+song();
+
+say("A quick glance at my wallet confirms the song\'s truth...");
+
+say("I have " + noCash + " cash in my wallet, darn!");
+
+say("Okay, I think I\'m done singing for the week... Now what?");
+
+say("There isn't much time left today. What to do now?");
+
+say("Cram as much as I can in the hours I have left, or go Shopping?");
+
+say("Number 2 sounds really good to me.");
+
+goToStores(storeNames, minPerStore);
+
+say("\"Now it's really late! I need to get some rest.\"");
+
+say("The End!");
+
+
+
+
+
