@@ -1,7 +1,7 @@
 // Author: Kevin Ward
 // Date: May 24th, 2012
 // Name: Deliverable 4
-// Theme: Procrastination and Schoolwork.
+// Theme: Libraries
 
 
 // Variables
@@ -142,7 +142,26 @@ goToStores(storeNames, minPerStore);
 
 say("\"Now it's really late! I need to get some rest.\"");
 
+say("I wish I didn\'t procrastinate so much in school...");
+
 say("The End!");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
